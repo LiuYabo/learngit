@@ -2,5 +2,7 @@ trytrytry
 
 git2
 
+<<<<<<< HEAD
 
 try4
+=======
